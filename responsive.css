@@ -1,0 +1,14 @@
+@media (max-width: 375px){
+    body {
+        background: 
+        url(images/bg-pattern-top.svg) no-repeat right -35% top 160%,
+        url(images/bg-pattern-bottom.svg) no-repeat left -15% bottom 230%;
+    
+        background-color: hsl(185, 75%, 39%);
+    }
+
+    .card {
+        margin-top: 50%;
+    }
+    
+}
